@@ -1092,6 +1092,7 @@ a:hover, a:active {
 .grid-item .img-caption p {
     font-size: 14px;
     margin-bottom: 0;
+    color: #e4cdec;
 }
 
 .grid-item .img-caption p::before {
