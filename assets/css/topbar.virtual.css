@@ -85,13 +85,13 @@
   width: 100%;
   padding-top: 6px;
   padding-bottom: 6px;
-  background-color: rgba(104, 102, 102, 0.8);
+  background-color: rgba(98, 47, 192, 0.15);
   z-index: 99;
 }
 
 .page-home .navbar.floating {
   top: 0;
-  background-color: #343a40;
+  background-color: #1b022d;
 }
 
 .page-home .caption-header {
@@ -103,7 +103,7 @@
   align-items: center;
   width: 100%;
   height: 100%;
-  color: #fff;
+  color: #e5b8f4;
   z-index: 10;
 }
 
@@ -114,7 +114,7 @@
 .page-home .badge {
   padding: 16px 24px;
   background-color: rgba(239, 56, 36, 0.15);
-  color: #e5b8f4;
+  color: #81518f;
   text-shadow: 0 2px 4px rgba(23, 25, 37, 0.4);
   font-size: 16px;
   border-radius: 40px;
@@ -675,7 +675,7 @@
 
 .theme-purple .page-home .badge {
   background-color: rgba(98, 47, 192, 0.15);
-  color: #e5b8f4;
+  color: #81518f;
 }
 
 .theme-purple .page-about .img-place::before {
