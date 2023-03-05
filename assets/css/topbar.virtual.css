@@ -114,7 +114,7 @@
 .page-home .badge {
   padding: 16px 24px;
   background-color: rgba(239, 56, 36, 0.15);
-  color: #EF3724;
+  color: #e5b8f4;
   text-shadow: 0 2px 4px rgba(23, 25, 37, 0.4);
   font-size: 16px;
   border-radius: 40px;
@@ -675,7 +675,7 @@
 
 .theme-purple .page-home .badge {
   background-color: rgba(98, 47, 192, 0.15);
-  color: #81518f;
+  color: #e5b8f4;
 }
 
 .theme-purple .page-about .img-place::before {
