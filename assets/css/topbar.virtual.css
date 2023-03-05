@@ -86,13 +86,13 @@
   padding-top: 6px;
   padding-bottom: 6px;
   color: #e5b8f4;
-  background-color: rgba(98, 47, 192, 0.15);
+  background-color: rgb(116 28 145 / 15%);
   z-index: 99;
 }
 
 .page-home .navbar.floating {
   top: 0;
-  background-color: #341444;
+  background-color: #540d54;
 }
 
 .page-home .caption-header {
