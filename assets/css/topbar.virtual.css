@@ -675,15 +675,15 @@
 
 .theme-purple .page-home .badge {
   background-color: rgba(98, 47, 192, 0.15);
-  color: #cb1c8d;
+  color: #81518f;
 }
 
 .theme-purple .page-about .img-place::before {
-  border-color: #6f42c1;
+  border-color: #7f167f;
 }
 
 .theme-purple .timeline li:first-child .title {
-  background-color: #6f42c1;
+  background-color: #7f167f;
 }
 
 .theme-purple .timeline li:first-child::before {
