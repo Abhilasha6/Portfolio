@@ -1261,7 +1261,7 @@ a:hover, a:active {
 }
 
 .theme-purple .btn-theme:hover {
-    background-color: #7b54c2;
+    background-color: #81518f;
     color: #fff;
 }
 
@@ -1270,23 +1270,23 @@ a:hover, a:active {
 }
 
 .theme-purple .btn-theme-outline {
-    color: #6f42c1;
-    box-shadow: 0 0 0 2px #6f42c1;
+    color: #81518f;
+    box-shadow: 0 0 0 2px #81518f;
 }
 
 .theme-purple .btn-theme-outline:hover {
-    background-color: #6f42c1;
+    background-color: #81518f;
     color: #fff;
 }
 
 .theme-purple .btn-theme-outline:focus {
-    background-color: #6f42c1;
+    background-color: #81518f;
     color: #fff;
     box-shadow: 0 0 0 3px #fff, 0 0 0 5px #6f42c1;
 }
 
 .theme-purple .btn-fab {
-    background-color: #6f42c1;
+    background-color: #81518f;
     color: #fff;
 }
 
@@ -1304,5 +1304,5 @@ a:hover, a:active {
 }
 
 .theme-purple .theme-list li::before {
-    border-color: #6f42c1;
+    border-color: #81518f;
 }

@@ -457,8 +457,8 @@
   display: block;
   margin: 0;
   padding: 50px 0;
-  background-color: #460c68;
-  color: #9FA2AB;
+  background-color: #341444;
+  color: #e5b8f4;
 }
 
 .footer-info {
@@ -469,17 +469,17 @@
 .vg-footer .list-unstyled li {
   margin-bottom: 6px;
   font-size: 21px;
-  color: #fff;
+  color: #f3cdff;
 }
 
-.vg-footer .form-control {
+/* .vg-footer .form-control {
   padding-left: 20px;
   padding-right: 20px;
   background-color: #202334;
   color: #9FA2AB;
   border: 0;
   box-shadow: 0 2px 8px rgba(16, 18, 27, 0.6);
-}
+} */
 
 .vg-footer .form-control:focus {
   box-shadow: 0 2px 8px rgba(16, 18, 27, 0.6);
