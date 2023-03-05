@@ -627,7 +627,7 @@
 }
 
 /* Theme Purple */
-.theme-purple .badge-subhead  {
+/* .theme-purple .badge-subhead  {
   background-color: rgba(110, 66, 193, 0.15);
   color: #6f42c1;
 }
@@ -642,6 +642,40 @@
 .theme-purple .page-home .badge {
   background-color: rgba(98, 47, 192, 0.15);
   color: #6f42c1;
+}
+
+.theme-purple .page-about .img-place::before {
+  border-color: #6f42c1;
+}
+
+.theme-purple .timeline li:first-child .title {
+  background-color: #6f42c1;
+}
+
+.theme-purple .timeline li:first-child::before {
+  background-color: #6f42c1;
+  box-shadow: 0 0 0 2px #6f42c1;
+}
+
+.theme-purple .post-grid .post-category {
+  color: #6f42c1;
+} */
+
+.theme-purple .badge-subhead  {
+  background-color: rgba(110, 66, 193, 0.15);
+  color: #6f42c1;
+}
+
+.theme-purple .filterable-button .btn.selected,
+.theme-purple .filterable-button .btn:focus {
+  background-color: #6f42c1;
+  color: #fff;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #6f42c1;
+}
+
+.theme-purple .page-home .badge {
+  background-color: rgba(98, 47, 192, 0.15);
+  color: #cb1c8d;
 }
 
 .theme-purple .page-about .img-place::before {
