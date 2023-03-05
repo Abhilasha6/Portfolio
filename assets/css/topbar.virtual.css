@@ -496,7 +496,7 @@
 
 /* Theme color style */
 /* Theme Red */
-.theme-red .badge-subhead {
+/* .theme-red .badge-subhead {
   background-color: rgba(239, 56, 36, 0.15);
   color: #EF3724;
 }
@@ -519,10 +519,10 @@
 .theme-red .timeline li:first-child::before {
   background-color: #EF3724;
   box-shadow: 0 0 0 2px #EF3724;
-}
+} */
 
 /* Theme Blue */
-.theme-blue .badge-subhead  {
+/* .theme-blue .badge-subhead  {
   background-color: rgba(41, 96, 247, 0.15);
   color: #2960f7;
 }
@@ -554,10 +554,10 @@
 
 .theme-blue .post-grid .post-category {
   color: #2960f7;
-}
+} */
 
 /* Theme Green */
-.theme-green .badge-subhead  {
+/* .theme-green .badge-subhead  {
   background-color: rgba(139, 198, 63, 0.15);
   color: #8cc63f;
 }
@@ -589,10 +589,10 @@
 
 .theme-green .post-grid .post-category {
   color: #8cc63f;
-}
+} */
 
 /* Theme Orange */
-.theme-orange .badge-subhead  {
+/* .theme-orange .badge-subhead  {
   background-color: rgba(253, 125, 20, 0.15);
   color: #fd7e14;
 }
@@ -624,7 +624,7 @@
 
 .theme-orange .post-grid .post-category {
   color: #fd7e14;
-}
+} */
 
 /* Theme Purple */
 /* .theme-purple .badge-subhead  {
