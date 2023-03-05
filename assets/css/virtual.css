@@ -93,7 +93,7 @@ body {
 }
 
 a:hover, a:active {
-    color: #2184f5;
+    color: #e5b8f4;
 }
 
 /* Image Responsive */
@@ -245,8 +245,8 @@ a:hover, a:active {
     text-align: center;
     font-size: 18px;
     border-radius: 50%;
-    background-color: #52565c;
-    color: #81518f;
+    background-color: #81518f;
+    color: #e5b8f4;
     visibility: hidden;
     cursor: pointer;
     box-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
@@ -566,10 +566,12 @@ a:hover, a:active {
     font-weight: 500;
     padding-top: 12px;
     padding-bottom: 12px;
+    color: #e5b8f4;
 }
 
 .navbar-nav .nav-link {
     padding: 14px 10px;
+    color: #e5b8f4;
 }
 
 @media (min-width: 576px) {
