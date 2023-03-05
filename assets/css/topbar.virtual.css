@@ -687,8 +687,8 @@
 }
 
 .theme-purple .timeline li:first-child::before {
-  background-color: #6f42c1;
-  box-shadow: 0 0 0 2px #6f42c1;
+  background-color: #81518f;
+  box-shadow: 0 0 0 2px #81518f;
 }
 
 .theme-purple .post-grid .post-category {
