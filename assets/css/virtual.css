@@ -1296,11 +1296,11 @@ a:hover, a:active {
 }
 
 .theme-purple .progress {
-    box-shadow: 0 0 0 2px #6f42c1;
+    box-shadow: 0 0 0 2px #7f167f;
 }
 
 .theme-purple .progress-bar {
-    background-color: #6f42c1;
+    background-color: #7f167f;
 }
 
 .theme-purple .theme-list li::before {
