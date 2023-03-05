@@ -1,11 +1,4 @@
 /*
- 
- [Master Stylesheet]
-
- Project:   VirtualGram Template
- Version:   1.0
- Author:    Mikhail Abdillah
- Website:   https://www.macode.web.id/
 
  [Table of contents]
 
@@ -253,7 +246,7 @@ a:hover, a:active {
     font-size: 18px;
     border-radius: 50%;
     background-color: #52565c;
-    color: #fff;
+    color: #81518f;
     visibility: hidden;
     cursor: pointer;
     box-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
