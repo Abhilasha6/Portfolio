@@ -3,13 +3,13 @@
 **About Me**
 ===============
 
-I'm Abhilasha Panda, a passionate web developer with a flair for creating innovative solutions. 🚀
+I'm Abhilasha Panda, a passionate web developer and programmer with a flair for creating innovative solutions. 🚀
 
 **Skills**
 ========
 
-✨ Frontend Development ✨
-✨ Programming Languages: Java, Python, SQL and more! ✨
+✨ Frontend Development ✨ <br>
+✨ Programming Languages: Java, Python, SQL and more! ✨ <br>
 ✨ AI/ ML, Data Analysis and more!✨
 
 
@@ -18,9 +18,9 @@ I'm Abhilasha Panda, a passionate web developer with a flair for creating innova
 
 I'm on a mission to:
 
-✨ Improve my skills through continuous learning and self-improvement
-✨ Contribute to society by creating unique projects that make a difference
-✨ Pursue industry-relevant certifications to stay ahead of the curve
+✨ Improve my skills through continuous learning and self-improvement <br>
+✨ Contribute to society by creating unique projects that make a difference <br>
+✨ Pursue industry-relevant certifications to stay ahead of the curve <br>
 ✨ Complete internships at prestigious organizations to gain valuable experience
 
 **About My Approach**
