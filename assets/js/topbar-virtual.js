@@ -69,7 +69,7 @@ $(function() {
 
 $(document).ready(function () {
   
-  /* Sticky nvigation */
+  /* Sticky navigation */
   
   var sticky = {
     $sticky: $('.sticky'),
